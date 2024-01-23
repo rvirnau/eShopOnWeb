@@ -9,7 +9,7 @@ env:
   LOCATION: 	southcentralus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: cf4a286a-5907-4773-a0e3-d140a1f59e28
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: az400-webapp-virnau
 
 
 jobs:
